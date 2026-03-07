@@ -1,0 +1,10 @@
+:root {
+  --color-bg: #081019;
+  --color-panel: rgba(17, 27, 40, 0.78);
+  --color-panel-strong: #101926;
+  --color-border: rgba(150, 187, 227, 0.16);
+  --color-text: #e8eef7;
+  --color-muted: #9aa9bc;
+  --color-accent: #8ec5ff;
+  --color-accent-strong: #d6a45a;
+}
