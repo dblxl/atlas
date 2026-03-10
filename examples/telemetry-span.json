@@ -1,0 +1,16 @@
+{
+    "traceId": "trace_xyz789",
+    "spanId": "span_abc123",
+    "parentId": "span_root000",
+    "name": "retrieval.execute",
+    "status": "ok",
+    "startTime": "2026-03-10T11:29:00.000Z",
+    "endTime": "2026-03-10T11:29:00.450Z",
+    "attributes": {
+        "retrieval.query": "how to integrate auth",
+        "retrieval.strategy": "hybrid",
+        "retrieval.k": 5,
+        "retrieval.documents_returned": 3,
+        "retrieval.latency_ms": 450
+    }
+}

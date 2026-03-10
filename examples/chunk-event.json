@@ -1,0 +1,17 @@
+{
+    "eventId": "evt_chunk_999",
+    "timestamp": "2026-03-10T11:25:30.123Z",
+    "sourceId": "src_doc_444",
+    "operation": "chunking.process",
+    "metrics": {
+        "totalTokens": 15400,
+        "chunkCount": 35,
+        "averageChunkSize": 440,
+        "processingTimeMs": 120
+    },
+    "strategy": {
+        "name": "recursive_character",
+        "chunkSize": 512,
+        "chunkOverlap": 50
+    }
+}
